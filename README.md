@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **simonhwk/simonhwk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +16,6 @@ Here are some ideas to get you started:
 
 👋 Hi, I’m **Simon (Hwanwoong) Kang**. I am a MS Student in Mechanical Engineering at Columbia University.
 🤖 Member of the [Creative Machines Lab](https://www.creativemachineslab.com/).
-
-🔗 **Connect with me:**
-- [GitHub](YOUR_GITHUB_PROFILE_LINK)
-- [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
 
 📚 **About Me:**  
 - Learn more about me at [simonhwk.github.io](https://www.simonhwk.github.io/).
