@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m **Simon (Hwanwoong) Kang**. I am a MS Student in Mechanical Engineering at Columbia University.
+👋 Hi, I’m **Simon (Hwanwoong) Kang**. I am a MS Student in Mechanical Engineering at Columbia University.<br>
 🤖 Member of the [Creative Machines Lab](https://www.creativemachineslab.com/).
 
 📚 **About Me:**  
