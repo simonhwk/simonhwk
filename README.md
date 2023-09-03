@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 🔍 **Research Interests:**  
 - Modular Robotics
-- Robotic Manipulation
-- Motion Control
+- Robot Learning
+- Robotic Manipulation and Control
 - Exo-Skeleton
