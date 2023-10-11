@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 🔍 **Research Interests:**  
 - Modular Robotics
-- Robot Learning
+- Soft Robots
+- Robot Learning (DNN/Genetic Algorithm)
 - Robotic Manipulation and Control
-- Exo-Skeleton
