@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 📚 Learn more about me at [simonhwk.github.io](https://simonhwk.github.io/)
 
 🔍 **Research Interests:**  
-- Modular and Bio-inspired Robotics
-- Robot Learning (DNN/Genetic Algorithm)
+- Modular & Bio-inspired Robotics
+- Robot Learning (DNN / Genetic Algorithm)
+- SLAM
 - Robotic Manipulation and Control
