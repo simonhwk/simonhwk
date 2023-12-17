@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 🔍 **Research Interests:**  
 - Modular & Bio-inspired Robotics
-- Robot Learning (DNN / Genetic Algorithm)
+- Multi-Agent Control and Planning
 - SLAM
-- Robotic Manipulation and Control
+- Robot Learning
