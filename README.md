@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m **Simon (Hwanwoong) Kang**. I am a MS Student in Mechanical Engineering at Columbia University.<br>
-🤖 Member of the [Creative Machines Lab](https://www.creativemachineslab.com/).
+👋 Hi, I’m **Simon (Hwanwoong) Kang**.
 
 📚 Learn more about me at [simonhwk.github.io](https://simonhwk.github.io/)
 
 🔍 **Research Interests:**  
-- Modular & Bio-inspired Robotics
-- Multi-Agent Control and Planning
-- SLAM
+- Robotic Algorithm and Controls
+- Embedded Software
 - Robot Learning
