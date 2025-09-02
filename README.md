@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 🔍 **Research Interests:**  
 - Robotic Algorithm and Controls
 - Embedded Software
-- Robot Learning
+- Robot Learning (AI/ML)
