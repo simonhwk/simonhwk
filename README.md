@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 📚 Learn more about me at [simonhwk.github.io](https://simonhwk.github.io/)
 
-🔭 My work is dedicated to developing robotic algorithms and systems for medical devices.
+🔭 My work is dedicated to developing robotic algorithms and systems.
 
 🔍 **Research Interests:**  
 - Robotic Algorithm and Controls
